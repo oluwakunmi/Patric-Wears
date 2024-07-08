@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Patric-Wears/static/css/main.e5578cd9.css",
-    "main.js": "/Patric-Wears/static/js/main.edfd758d.js",
+    "main.css": "/Patric-Wears/static/css/main.79b13345.css",
+    "main.js": "/Patric-Wears/static/js/main.c1ae47d4.js",
     "static/js/453.34bd821c.chunk.js": "/Patric-Wears/static/js/453.34bd821c.chunk.js",
     "static/media/img1_hero.png": "/Patric-Wears/static/media/img1_hero.8116049c8947476af94f.png",
     "static/media/img2_hero.png": "/Patric-Wears/static/media/img2_hero.4cabc785513a23224da7.png",
     "static/media/img3_hero.png": "/Patric-Wears/static/media/img3_hero.fb9a776da8280f46ae74.png",
     "index.html": "/Patric-Wears/index.html",
-    "main.e5578cd9.css.map": "/Patric-Wears/static/css/main.e5578cd9.css.map",
-    "main.edfd758d.js.map": "/Patric-Wears/static/js/main.edfd758d.js.map",
+    "main.79b13345.css.map": "/Patric-Wears/static/css/main.79b13345.css.map",
+    "main.c1ae47d4.js.map": "/Patric-Wears/static/js/main.c1ae47d4.js.map",
     "453.34bd821c.chunk.js.map": "/Patric-Wears/static/js/453.34bd821c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5578cd9.css",
-    "static/js/main.edfd758d.js"
+    "static/css/main.79b13345.css",
+    "static/js/main.c1ae47d4.js"
   ]
 }
