@@ -1,0 +1,317 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.before-hero {
+    /* Frame 427319347 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 8px;
+gap: 8px;
+
+position: absolute;
+width: 1280px;
+height: 49px;
+left: calc(50% - 1280px/2);
+top: 0px;
+
+/* Whatsapp/Black/11 */
+background: #060606;
+
+}
+.before-hero p {
+    /* FREE SHIPMENT IF YOU PURCHASE TODAY */
+
+width: 293px;
+height: 17px;
+
+/* Neue/Medium/14 */
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 120%;
+/* identical to box height, or 17px */
+text-align: center;
+
+/* Whatsapp/White/01 */
+color: #F6F6F6;
+
+
+}
+.nav-bar {
+    /* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 64px;
+gap: 8px;
+
+position: absolute;
+width: 1280px;
+height: 72px;
+left: 0px;
+top: 49px;
+
+/* Whatsapp/White/01 */
+background: #F6F6F6;
+
+}
+.logo {
+    /* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+margin: 0 auto;
+width: 138px;
+height: 39px;
+
+/* Whatsapp/Black/11 */
+background: #060606;
+
+
+}
+.logo p {
+    /* Patrik Wears */
+
+width: 122px;
+height: 23px;
+
+/* Header 2 */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+letter-spacing: -0.02em;
+
+/* Whatsapp/White/01 */
+color: #FFFFFF;
+
+
+}
+.nav {
+ /* Frame 427319292 */
+
+/* Auto layout */
+display: inline-flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 299px;
+height: 35px;
+cursor: pointer;
+
+}
+.nav li {
+    /* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 41px;
+height: 30px;
+
+border-radius: 16px;
+
+}
+.nav li p {
+    /* Women */
+
+width: 43px;
+height: 14px;
+
+/* Neue/Medium/12 */
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 120%;
+/* or 14px */
+text-align: center;
+
+/* Whatsapp/Black/11 */
+color: #060606;
+
+}
+.fg {
+    gap: 10px;
+
+}
+div {
+    display: flex;
+}
+.flash {
+    /* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 8px;
+margin: 0% auto;
+width: 56px;
+height: 35px;
+
+/* Whatsapp/Black/11 */
+background: #060606;
+
+
+}
+.gbe {
+    /* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 56px;
+height: 35px;
+
+/* Whatsapp/Black/11 */
+background: #060606;
+
+}
+.flash p {
+    /* Flash */
+
+width: 40px;
+height: 19px;
+
+/* Neue/Medium/16 */
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 120%;
+/* or 19px */
+text-align: center;
+
+/* Whatsapp/White/01 */
+color: #F6F6F6;
+
+
+}
+.gbe p {
+    /* Flash */
+
+width: 40px;
+height: 19px;
+
+/* Neue/Medium/16 */
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 120%;
+/* or 19px */
+text-align: center;
+
+/* Whatsapp/White/01 */
+color: #F6F6F6;
+
+
+}
+.nav-search-cart {
+    /* Frame 427319293 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+
+gap: 20px;
+
+margin: 0 auto;
+width: 309px;
+height: 20px;
+
+}
+button {
+    width: 157px;
+    height: 58px;
+    outline: none;
+    border: 1px solid white;
+    border-radius: 75px;
+    color: gray;
+    cursor: pointer;
+}
+.bu {
+    font-size: 1px;
+}
+ul {
+    display: flex;
+}
+.flash {
+    padding-left: 10px;
+}
+.below {
+    /* Frame 427319343 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 8px;
+gap: 8px;
+
+position: absolute;
+width: 1280px;
+height: 49px;
+left: calc(50% - 1280px/2);
+top: 122px;
+
+/* Iris/100 */
+background: #5D5FEF;
+
+}
+.below p {
+    /* SAVE UP TO 60% WHEN YOU PURCHASE FROM OUR PATRIKLUB */
+
+width: 435px;
+height: 17px;
+
+/* Neue/Medium/14 */
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 120%;
+/* identical to box height, or 17px */
+text-align: center;
+
+/* Whatsapp/White/01 */
+color: #F6F6F6;
+
+
+}
