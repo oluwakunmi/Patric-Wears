@@ -17,7 +17,7 @@ gap: 8px;
 position: absolute;
 width: 1280px;
 height: 49px;
-left: calc(50% - 1280px/2);
+
 top: 0px;
 
 /* Whatsapp/Black/11 */
@@ -288,7 +288,7 @@ gap: 8px;
 position: absolute;
 width: 1280px;
 height: 49px;
-left: calc(50% - 1280px/2);
+
 top: 122px;
 
 /* Iris/100 */

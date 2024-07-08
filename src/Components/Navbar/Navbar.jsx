@@ -1,10 +1,6 @@
 import React from 'react'
 import './Navbar.css'
 
-import logo from "../assets/Logo.png"
-import logoAfter from "../assets/Logoafter kids-1.png"
-import logoAfterr from "../assets/Logoafter kids.png"
-import search from "../assets/Search.png"
 import person from "../assets/Personperson_icon.png"
 import heart from "../assets/Heart_icon.png"
 import cart from "../assets/Cartcart_icon.png"
