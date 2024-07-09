@@ -5,7 +5,7 @@ import Shop from './Pages/Shop';
 import ShopCategory from './Pages/ShopCategory';
 import Product from './Pages/Product';
 import Cart from './Pages/Cart';
-import Hero from './Components/Hero/Hero';
+import Footer from './Components/Footer/Footer';
 
 
 
@@ -14,7 +14,8 @@ function App() {
     <div className='App'>
       <BrowserRouter>
       <Navbar/>
-      <Hero/>
+      
+      <Footer/>
       <Routes>
         <Route path='/' element={<Shop/>}/>
         <Route path='/Men' element={<ShopCategory category="Men"/>}/>

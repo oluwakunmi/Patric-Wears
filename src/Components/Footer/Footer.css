@@ -1,0 +1,34 @@
+.top {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+position: absolute;
+width: 1240px;
+height: 164px;
+top: 2180px;
+
+/* Iris/100 */
+background: #5D5FEF;
+
+}
+.down {
+    /* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+
+position: absolute;
+width: 1260px;
+height: 276px;
+bottom: 0px;
+top: 2345px;
+
+/* Whatsapp/White/01 */
+background: #F6F6F6;
+
+}
