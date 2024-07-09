@@ -6,6 +6,7 @@ import ShopCategory from './Pages/ShopCategory';
 import Product from './Pages/Product';
 import Cart from './Pages/Cart';
 import Footer from './Components/Footer/Footer';
+import Hero from './Components/Hero/Hero';
 
 
 
@@ -14,7 +15,7 @@ function App() {
     <div className='App'>
       <BrowserRouter>
       <Navbar/>
-      
+      <Hero/>
       <Footer/>
       <Routes>
         <Route path='/' element={<Shop/>}/>
