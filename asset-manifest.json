@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/Patric-Wears/static/css/main.79b13345.css",
-    "main.js": "/Patric-Wears/static/js/main.c1ae47d4.js",
+    "main.css": "/Patric-Wears/static/css/main.88537d7f.css",
+    "main.js": "/Patric-Wears/static/js/main.bd710051.js",
     "static/js/453.34bd821c.chunk.js": "/Patric-Wears/static/js/453.34bd821c.chunk.js",
+    "static/media/product4.svg": "/Patric-Wears/static/media/product4.7bfacaf7d05da0d55b8eeb3d5bdc02df.svg",
+    "static/media/Product1.svg": "/Patric-Wears/static/media/Product1.4e42487b3eb4fd378adcfaed109c04eb.svg",
+    "static/media/product5.svg": "/Patric-Wears/static/media/product5.afb63375de027206d558bd65696aa163.svg",
+    "static/media/product6.svg": "/Patric-Wears/static/media/product6.e0bbdda5f4400d9018278f35068606c8.svg",
+    "static/media/product2.svg": "/Patric-Wears/static/media/product2.dacc07b4875d3f27ca20f0d3e017a073.svg",
+    "static/media/product7.svg": "/Patric-Wears/static/media/product7.6682a03671397b8c920c8656d2fc540a.svg",
+    "static/media/product3.svg": "/Patric-Wears/static/media/product3.17a34561ae6ec19574698e18ad7ce0bc.svg",
+    "static/media/product8.svg": "/Patric-Wears/static/media/product8.2814f70593f60a9644e37f09b050cde2.svg",
     "static/media/img1_hero.png": "/Patric-Wears/static/media/img1_hero.8116049c8947476af94f.png",
     "static/media/img2_hero.png": "/Patric-Wears/static/media/img2_hero.4cabc785513a23224da7.png",
     "static/media/img3_hero.png": "/Patric-Wears/static/media/img3_hero.fb9a776da8280f46ae74.png",
     "index.html": "/Patric-Wears/index.html",
-    "main.79b13345.css.map": "/Patric-Wears/static/css/main.79b13345.css.map",
-    "main.c1ae47d4.js.map": "/Patric-Wears/static/js/main.c1ae47d4.js.map",
+    "main.88537d7f.css.map": "/Patric-Wears/static/css/main.88537d7f.css.map",
+    "main.bd710051.js.map": "/Patric-Wears/static/js/main.bd710051.js.map",
     "453.34bd821c.chunk.js.map": "/Patric-Wears/static/js/453.34bd821c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79b13345.css",
-    "static/js/main.c1ae47d4.js"
+    "static/css/main.88537d7f.css",
+    "static/js/main.bd710051.js"
   ]
 }
