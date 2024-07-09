@@ -1,11 +1,14 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './Navbar.css'
 
 import person from "../assets/Personperson_icon.png"
 import heart from "../assets/Heart_icon.png"
 import cart from "../assets/Cartcart_icon.png"
+import { Link } from 'react-router-dom'
 
 const Navbar = () => {
+ 
+    const [menu,setMenu] = useState("Shop");
   return (
     <div className='navbar'>
       <div className='before-hero'>
@@ -17,9 +20,9 @@ const Navbar = () => {
         </div>
         <div className="nav">
         <ul>
-          <li> <p>Men</p></li>
-          <li><p>Women</p></li>
-          <li><p>Kids</p></li>
+        <li onClick={()=>{setMenu("Men")}}> <p><Link style={{textDecoration:'none'}} to='/Men'>Men</Link>{menu==="Men"?<hr/>:<></>}</p></li>
+          <li onClick={()=>{setMenu("Women")}}><p><Link style={{textDecoration:'none'}} to='/Women'>Women</Link>{menu==="Wowen"?<hr/>:<></>}</p></li>
+          <li onClick={()=>{setMenu("Kids")}}><p><Link style={{textDecoration:'none'}} to='/Kids'>Kids</Link> {menu==="Kids"?<hr/>:<></>}</p></li> 
           <div className='fg'>
           <div className="flash"><p>Flash</p></div>
           <div className="gbe"><p>Gbanjo</p></div>

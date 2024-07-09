@@ -194,7 +194,7 @@ align-items: center;
 padding: 8px;
 gap: 8px;
 
-width: 56px;
+width: 75px;
 height: 35px;
 
 /* Whatsapp/Black/11 */
@@ -241,6 +241,13 @@ color: #F6F6F6;
 
 
 }
+.nav hr {
+ border: none;
+ width: 30px;
+ height: 1px;
+ border-radius: 10px;
+ background: black;
+}
 .nav-search-cart {
     /* Frame 427319293 */
 
@@ -256,6 +263,10 @@ width: 309px;
 height: 20px;
 
 }
+.shop {
+    color: white;
+    background-color: white;
+}
 button {
     width: 157px;
     height: 58px;
@@ -264,6 +275,9 @@ button {
     border-radius: 75px;
     color: gray;
     cursor: pointer;
+}
+button:active {
+    background: #FFFFFF;
 }
 .bu {
     font-size: 1px;
